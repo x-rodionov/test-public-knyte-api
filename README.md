@@ -1,2 +1,2 @@
 # test-system-core
-Test repo to discover fork chain mechanics
+Test public repo to implement appstate load/save flow
