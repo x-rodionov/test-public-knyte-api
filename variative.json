@@ -1,4 +1,5 @@
 {
-  "desc": "this part is specific for every project based on the core",
-  "version": 1
+  "desc": "this part is very specific for every project based on the core",
+  "version": 3,
+  "subversion": "no need"
 }
